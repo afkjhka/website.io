@@ -1,9 +1,11 @@
-p{
-	font-family:"Monaco";
-a{
-	color:red;
-	font-family:"Monaco";
-}
+
 body{
 	background-image: url(rick.jpg)
 }
+
+p{
+	font-family:"Monaco";}
+a{
+	color:red;
+	font-family:"Monaco";
+	}
